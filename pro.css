@@ -1,0 +1,23 @@
+.class1{
+    height: 100px;
+    width: 100px;
+  background-image: linear-gradient(pink,black);
+}
+.class2{
+    height: 100px;
+    width: 100px;
+  background-image: linear-gradient(blue,green);
+
+}
+.class3{
+    height: 100px;
+    width: 100px;
+  background-image: linear-gradient(red,green);
+
+}
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    height: 50vh;
+}
